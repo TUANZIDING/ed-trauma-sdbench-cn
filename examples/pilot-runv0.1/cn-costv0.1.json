@@ -1,0 +1,1014 @@
+[
+  {
+    "case_id": "ETC-01",
+    "k": 0,
+    "num_rounds": 4,
+    "consult_fee_total": 100.0,
+    "tests_total": 1227.0,
+    "total_cny": 1327.0,
+    "unpriced": [],
+    "details": [
+      {
+        "test": "体格检查",
+        "item_id": "B000",
+        "item": "床旁问诊与体格检查",
+        "qty": 1,
+        "price": 0.0,
+        "status": "规则"
+      },
+      {
+        "test": "生命体征",
+        "item_id": "B000",
+        "item": "床旁问诊与体格检查",
+        "qty": 1,
+        "price": 0.0,
+        "status": "规则"
+      },
+      {
+        "test": "床旁FAST超声",
+        "item_id": "I008",
+        "item": "床旁超声/FAST",
+        "qty": 1,
+        "price": 70.0,
+        "status": "已核实"
+      },
+      {
+        "test": "血常规",
+        "item_id": "L001",
+        "item": "血常规",
+        "qty": 1,
+        "price": 18.0,
+        "status": "已核实"
+      },
+      {
+        "test": "动脉血气分析",
+        "item_id": "L007",
+        "item": "动脉血气分析",
+        "qty": 1,
+        "price": 59.0,
+        "status": "已核实"
+      },
+      {
+        "test": "骨盆正位X线片",
+        "item_id": "I001",
+        "item": "X线摄影(DR)",
+        "qty": 1,
+        "price": 40.0,
+        "status": "已核实"
+      },
+      {
+        "test": "胸部正位X线片",
+        "item_id": "I001",
+        "item": "X线摄影(DR)",
+        "qty": 1,
+        "price": 40.0,
+        "status": "已核实"
+      },
+      {
+        "test": "凝血功能",
+        "item_id": "L004",
+        "item": "凝血功能(PT+APTT+FIB)",
+        "qty": 1,
+        "price": 45.0,
+        "status": "已核实（单项累加）"
+      },
+      {
+        "test": "骨盆带固定及输血后复评生命体征",
+        "item_id": "B000",
+        "item": "床旁问诊与体格检查",
+        "qty": 1,
+        "price": 0.0,
+        "status": "规则"
+      },
+      {
+        "test": "腹盆腔增强CT",
+        "item_id": "I004",
+        "item": "CT增强",
+        "qty": 3,
+        "price": 765.0,
+        "status": "已核实"
+      },
+      {
+        "test": "CT膀胱造影",
+        "item_id": "I003",
+        "item": "CT平扫",
+        "qty": 1,
+        "price": 190.0,
+        "status": "已核实"
+      }
+    ]
+  },
+  {
+    "case_id": "ETC-02",
+    "k": 0,
+    "num_rounds": 3,
+    "consult_fee_total": 75.0,
+    "tests_total": 931.0,
+    "total_cny": 1006.0,
+    "unpriced": [],
+    "details": [
+      {
+        "test": "体格检查",
+        "item_id": "B000",
+        "item": "床旁问诊与体格检查",
+        "qty": 1,
+        "price": 0.0,
+        "status": "规则"
+      },
+      {
+        "test": "生命体征",
+        "item_id": "B000",
+        "item": "床旁问诊与体格检查",
+        "qty": 1,
+        "price": 0.0,
+        "status": "规则"
+      },
+      {
+        "test": "床旁FAST超声",
+        "item_id": "I008",
+        "item": "床旁超声/FAST",
+        "qty": 1,
+        "price": 70.0,
+        "status": "已核实"
+      },
+      {
+        "test": "右侧胸腔穿刺减压",
+        "item_id": "P002",
+        "item": "胸腔穿刺",
+        "qty": 1,
+        "price": 160.0,
+        "status": "已核实"
+      },
+      {
+        "test": "胸腔闭式引流",
+        "item_id": "P003",
+        "item": "胸腔闭式引流",
+        "qty": 1,
+        "price": 584.0,
+        "status": "已核实"
+      },
+      {
+        "test": "床旁胸部X线",
+        "item_id": "I001",
+        "item": "X线摄影(DR)",
+        "qty": 1,
+        "price": 40.0,
+        "status": "已核实"
+      },
+      {
+        "test": "血常规",
+        "item_id": "L001",
+        "item": "血常规",
+        "qty": 1,
+        "price": 18.0,
+        "status": "已核实"
+      },
+      {
+        "test": "动脉血气分析",
+        "item_id": "L007",
+        "item": "动脉血气分析",
+        "qty": 1,
+        "price": 59.0,
+        "status": "已核实"
+      }
+    ]
+  },
+  {
+    "case_id": "ETC-03",
+    "k": 0,
+    "num_rounds": 2,
+    "consult_fee_total": 50.0,
+    "tests_total": 70.0,
+    "total_cny": 120.0,
+    "unpriced": [],
+    "details": [
+      {
+        "test": "体格检查",
+        "item_id": "B000",
+        "item": "床旁问诊与体格检查",
+        "qty": 1,
+        "price": 0.0,
+        "status": "规则"
+      },
+      {
+        "test": "生命体征",
+        "item_id": "B000",
+        "item": "床旁问诊与体格检查",
+        "qty": 1,
+        "price": 0.0,
+        "status": "规则"
+      },
+      {
+        "test": "床旁FAST超声",
+        "item_id": "I008",
+        "item": "床旁超声/FAST",
+        "qty": 1,
+        "price": 70.0,
+        "status": "已核实"
+      }
+    ]
+  },
+  {
+    "case_id": "ETC-04",
+    "k": 0,
+    "num_rounds": 3,
+    "consult_fee_total": 75.0,
+    "tests_total": 644.0,
+    "total_cny": 719.0,
+    "unpriced": [],
+    "details": [
+      {
+        "test": "体格检查",
+        "item_id": "B000",
+        "item": "床旁问诊与体格检查",
+        "qty": 1,
+        "price": 0.0,
+        "status": "规则"
+      },
+      {
+        "test": "生命体征",
+        "item_id": "B000",
+        "item": "床旁问诊与体格检查",
+        "qty": 1,
+        "price": 0.0,
+        "status": "规则"
+      },
+      {
+        "test": "床旁FAST超声",
+        "item_id": "I008",
+        "item": "床旁超声/FAST",
+        "qty": 1,
+        "price": 70.0,
+        "status": "已核实"
+      },
+      {
+        "test": "床旁胸部X线片",
+        "item_id": "I001",
+        "item": "X线摄影(DR)",
+        "qty": 1,
+        "price": 40.0,
+        "status": "已核实"
+      },
+      {
+        "test": "胸主动脉CTA",
+        "item_id": "I005",
+        "item": "CT血管造影CTA",
+        "qty": 1,
+        "price": 400.0,
+        "status": "已核实"
+      },
+      {
+        "test": "血常规",
+        "item_id": "L001",
+        "item": "血常规",
+        "qty": 1,
+        "price": 18.0,
+        "status": "已核实"
+      },
+      {
+        "test": "心电图",
+        "item_id": "I011",
+        "item": "12导联心电图",
+        "qty": 1,
+        "price": 36.0,
+        "status": "已核实"
+      },
+      {
+        "test": "肌钙蛋白",
+        "item_id": "L013",
+        "item": "心肌肌钙蛋白I",
+        "qty": 1,
+        "price": 80.0,
+        "status": "已核实"
+      }
+    ]
+  },
+  {
+    "case_id": "ETC-05",
+    "k": 0,
+    "num_rounds": 4,
+    "consult_fee_total": 100.0,
+    "tests_total": 1856.0,
+    "total_cny": 1956.0,
+    "unpriced": [
+      {
+        "test": "双上肢血压",
+        "item_id": null,
+        "price": null,
+        "status": "未匹配"
+      }
+    ],
+    "details": [
+      {
+        "test": "体格检查",
+        "item_id": "B000",
+        "item": "床旁问诊与体格检查",
+        "qty": 1,
+        "price": 0.0,
+        "status": "规则"
+      },
+      {
+        "test": "双上肢血压",
+        "item_id": null,
+        "price": null,
+        "status": "未匹配"
+      },
+      {
+        "test": "心电图",
+        "item_id": "I011",
+        "item": "12导联心电图",
+        "qty": 1,
+        "price": 36.0,
+        "status": "已核实"
+      },
+      {
+        "test": "床旁心脏超声",
+        "item_id": "I010",
+        "item": "经胸心脏超声",
+        "qty": 1,
+        "price": 276.0,
+        "status": "已核实"
+      },
+      {
+        "test": "血常规",
+        "item_id": "L001",
+        "item": "血常规",
+        "qty": 1,
+        "price": 18.0,
+        "status": "已核实"
+      },
+      {
+        "test": "肌钙蛋白",
+        "item_id": "L013",
+        "item": "心肌肌钙蛋白I",
+        "qty": 1,
+        "price": 80.0,
+        "status": "已核实"
+      },
+      {
+        "test": "D-二聚体",
+        "item_id": "L006",
+        "item": "D-二聚体(定量)",
+        "qty": 1,
+        "price": 56.0,
+        "status": "已核实"
+      },
+      {
+        "test": "头颅CT平扫",
+        "item_id": "I003",
+        "item": "CT平扫",
+        "qty": 1,
+        "price": 190.0,
+        "status": "已核实"
+      },
+      {
+        "test": "全主动脉CTA",
+        "item_id": "I005",
+        "item": "CT血管造影CTA",
+        "qty": 1,
+        "price": 400.0,
+        "status": "已核实"
+      },
+      {
+        "test": "头颈部CTA",
+        "item_id": "I005",
+        "item": "CT血管造影CTA",
+        "qty": 2,
+        "price": 800.0,
+        "status": "已核实"
+      }
+    ]
+  },
+  {
+    "case_id": "ETC-06",
+    "k": 0,
+    "num_rounds": 3,
+    "consult_fee_total": 75.0,
+    "tests_total": 242.0,
+    "total_cny": 317.0,
+    "unpriced": [],
+    "details": [
+      {
+        "test": "体格检查",
+        "item_id": "B000",
+        "item": "床旁问诊与体格检查",
+        "qty": 1,
+        "price": 0.0,
+        "status": "规则"
+      },
+      {
+        "test": "生命体征",
+        "item_id": "B000",
+        "item": "床旁问诊与体格检查",
+        "qty": 1,
+        "price": 0.0,
+        "status": "规则"
+      },
+      {
+        "test": "床旁FAST超声",
+        "item_id": "I008",
+        "item": "床旁超声/FAST",
+        "qty": 1,
+        "price": 70.0,
+        "status": "已核实"
+      },
+      {
+        "test": "血常规",
+        "item_id": "L001",
+        "item": "血常规",
+        "qty": 1,
+        "price": 18.0,
+        "status": "已核实"
+      },
+      {
+        "test": "血型及交叉配血",
+        "item_id": "L003",
+        "item": "交叉配血",
+        "qty": 1,
+        "price": 50.0,
+        "status": "已核实"
+      },
+      {
+        "test": "凝血功能",
+        "item_id": "L004",
+        "item": "凝血功能(PT+APTT+FIB)",
+        "qty": 1,
+        "price": 45.0,
+        "status": "已核实（单项累加）"
+      },
+      {
+        "test": "动脉血气分析",
+        "item_id": "L007",
+        "item": "动脉血气分析",
+        "qty": 1,
+        "price": 59.0,
+        "status": "已核实"
+      }
+    ]
+  },
+  {
+    "case_id": "ETC-07",
+    "k": 0,
+    "num_rounds": 3,
+    "consult_fee_total": 75.0,
+    "tests_total": 190.0,
+    "total_cny": 265.0,
+    "unpriced": [],
+    "details": [
+      {
+        "test": "体格检查",
+        "item_id": "B000",
+        "item": "床旁问诊与体格检查",
+        "qty": 1,
+        "price": 0.0,
+        "status": "规则"
+      },
+      {
+        "test": "头颅CT平扫",
+        "item_id": "I003",
+        "item": "CT平扫",
+        "qty": 1,
+        "price": 190.0,
+        "status": "已核实"
+      }
+    ]
+  },
+  {
+    "case_id": "ETC-08",
+    "k": 0,
+    "num_rounds": 3,
+    "consult_fee_total": 75.0,
+    "tests_total": 261.0,
+    "total_cny": 336.0,
+    "unpriced": [
+      {
+        "test": "指尖血糖",
+        "item_id": "L023",
+        "item": "指尖血糖",
+        "price": null,
+        "status": "待核实"
+      }
+    ],
+    "details": [
+      {
+        "test": "体格检查",
+        "item_id": "B000",
+        "item": "床旁问诊与体格检查",
+        "qty": 1,
+        "price": 0.0,
+        "status": "规则"
+      },
+      {
+        "test": "头颅CT平扫",
+        "item_id": "I003",
+        "item": "CT平扫",
+        "qty": 1,
+        "price": 190.0,
+        "status": "已核实"
+      },
+      {
+        "test": "指尖血糖",
+        "item_id": "L023",
+        "item": "指尖血糖",
+        "price": null,
+        "status": "待核实"
+      },
+      {
+        "test": "凝血功能",
+        "item_id": "L004",
+        "item": "凝血功能(PT+APTT+FIB)",
+        "qty": 1,
+        "price": 45.0,
+        "status": "已核实（单项累加）"
+      },
+      {
+        "test": "血常规",
+        "item_id": "L001",
+        "item": "血常规",
+        "qty": 1,
+        "price": 18.0,
+        "status": "已核实"
+      },
+      {
+        "test": "肾功能",
+        "item_id": "L010",
+        "item": "肾功能(尿素+肌酐)",
+        "qty": 1,
+        "price": 8.0,
+        "status": "已核实（单项累加）"
+      }
+    ]
+  },
+  {
+    "case_id": "ETC-09",
+    "k": 0,
+    "num_rounds": 4,
+    "consult_fee_total": 100.0,
+    "tests_total": 182.5,
+    "total_cny": 282.5,
+    "unpriced": [
+      {
+        "test": "右小腿骨筋膜室压力测定",
+        "item_id": "P007",
+        "item": "骨筋膜室压力测定",
+        "price": null,
+        "status": "待核实"
+      }
+    ],
+    "details": [
+      {
+        "test": "体格检查",
+        "item_id": "B000",
+        "item": "床旁问诊与体格检查",
+        "qty": 1,
+        "price": 0.0,
+        "status": "规则"
+      },
+      {
+        "test": "心电图",
+        "item_id": "I011",
+        "item": "12导联心电图",
+        "qty": 1,
+        "price": 36.0,
+        "status": "已核实"
+      },
+      {
+        "test": "血钾等电解质",
+        "item_id": "L011",
+        "item": "电解质(K+Na+Cl)",
+        "qty": 1,
+        "price": 12.0,
+        "status": "已核实（单项累加）"
+      },
+      {
+        "test": "肌酸激酶CK",
+        "item_id": "L014",
+        "item": "肌酸激酶CK",
+        "qty": 1,
+        "price": 5.0,
+        "status": "已核实"
+      },
+      {
+        "test": "肾功能",
+        "item_id": "L010",
+        "item": "肾功能(尿素+肌酐)",
+        "qty": 1,
+        "price": 8.0,
+        "status": "已核实（单项累加）"
+      },
+      {
+        "test": "尿常规",
+        "item_id": "L016",
+        "item": "尿常规",
+        "qty": 1,
+        "price": 4.5,
+        "status": "已核实"
+      },
+      {
+        "test": "动脉血气分析",
+        "item_id": "L007",
+        "item": "动脉血气分析",
+        "qty": 1,
+        "price": 59.0,
+        "status": "已核实"
+      },
+      {
+        "test": "血常规",
+        "item_id": "L001",
+        "item": "血常规",
+        "qty": 1,
+        "price": 18.0,
+        "status": "已核实"
+      },
+      {
+        "test": "右胫腓骨X线正侧位",
+        "item_id": "I001",
+        "item": "X线摄影(DR)",
+        "qty": 1,
+        "price": 40.0,
+        "status": "已核实"
+      },
+      {
+        "test": "右小腿骨筋膜室压力测定",
+        "item_id": "P007",
+        "item": "骨筋膜室压力测定",
+        "price": null,
+        "status": "待核实"
+      }
+    ]
+  },
+  {
+    "case_id": "ETC-10",
+    "k": 0,
+    "num_rounds": 2,
+    "consult_fee_total": 50.0,
+    "tests_total": 117.0,
+    "total_cny": 167.0,
+    "unpriced": [],
+    "details": [
+      {
+        "test": "体格检查",
+        "item_id": "B000",
+        "item": "床旁问诊与体格检查",
+        "qty": 1,
+        "price": 0.0,
+        "status": "规则"
+      },
+      {
+        "test": "动脉血气分析",
+        "item_id": "L007",
+        "item": "动脉血气分析",
+        "qty": 1,
+        "price": 59.0,
+        "status": "已核实"
+      },
+      {
+        "test": "血常规",
+        "item_id": "L001",
+        "item": "血常规",
+        "qty": 1,
+        "price": 18.0,
+        "status": "已核实"
+      },
+      {
+        "test": "胸部X线片",
+        "item_id": "I001",
+        "item": "X线摄影(DR)",
+        "qty": 1,
+        "price": 40.0,
+        "status": "已核实"
+      }
+    ]
+  },
+  {
+    "case_id": "ETC-11",
+    "k": 0,
+    "num_rounds": 3,
+    "consult_fee_total": 75.0,
+    "tests_total": 95.0,
+    "total_cny": 170.0,
+    "unpriced": [],
+    "details": [
+      {
+        "test": "体格检查",
+        "item_id": "B000",
+        "item": "床旁问诊与体格检查",
+        "qty": 1,
+        "price": 0.0,
+        "status": "规则"
+      },
+      {
+        "test": "膀胱压测定",
+        "item_id": "P005",
+        "item": "膀胱压/腹内压监测",
+        "qty": 1,
+        "price": 10.0,
+        "status": "已核实"
+      },
+      {
+        "test": "血常规",
+        "item_id": "L001",
+        "item": "血常规",
+        "qty": 1,
+        "price": 18.0,
+        "status": "已核实"
+      },
+      {
+        "test": "动脉血气分析",
+        "item_id": "L007",
+        "item": "动脉血气分析",
+        "qty": 1,
+        "price": 59.0,
+        "status": "已核实"
+      },
+      {
+        "test": "肾功能",
+        "item_id": "L010",
+        "item": "肾功能(尿素+肌酐)",
+        "qty": 1,
+        "price": 8.0,
+        "status": "已核实（单项累加）"
+      }
+    ]
+  },
+  {
+    "case_id": "ETC-12",
+    "k": 0,
+    "num_rounds": 5,
+    "consult_fee_total": 125.0,
+    "tests_total": 262.0,
+    "total_cny": 387.0,
+    "unpriced": [
+      {
+        "test": "心电监护",
+        "item_id": null,
+        "price": null,
+        "status": "未匹配"
+      }
+    ],
+    "details": [
+      {
+        "test": "体格检查",
+        "item_id": "B000",
+        "item": "床旁问诊与体格检查",
+        "qty": 1,
+        "price": 0.0,
+        "status": "规则"
+      },
+      {
+        "test": "十二导联心电图",
+        "item_id": "I011",
+        "item": "12导联心电图",
+        "qty": 1,
+        "price": 36.0,
+        "status": "已核实"
+      },
+      {
+        "test": "骨盆正位X线片",
+        "item_id": "I001",
+        "item": "X线摄影(DR)",
+        "qty": 1,
+        "price": 40.0,
+        "status": "已核实"
+      },
+      {
+        "test": "左髋关节正侧位X线片",
+        "item_id": "I001",
+        "item": "X线摄影(DR)",
+        "qty": 1,
+        "price": 40.0,
+        "status": "已核实"
+      },
+      {
+        "test": "血常规",
+        "item_id": "L001",
+        "item": "血常规",
+        "qty": 1,
+        "price": 18.0,
+        "status": "已核实"
+      },
+      {
+        "test": "电解质",
+        "item_id": "L011",
+        "item": "电解质(K+Na+Cl)",
+        "qty": 1,
+        "price": 12.0,
+        "status": "已核实（单项累加）"
+      },
+      {
+        "test": "心肌肌钙蛋白",
+        "item_id": "L013",
+        "item": "心肌肌钙蛋白I",
+        "qty": 1,
+        "price": 80.0,
+        "status": "已核实"
+      },
+      {
+        "test": "心电图",
+        "item_id": "I011",
+        "item": "12导联心电图",
+        "qty": 1,
+        "price": 36.0,
+        "status": "已核实"
+      },
+      {
+        "test": "心电监护",
+        "item_id": null,
+        "price": null,
+        "status": "未匹配"
+      }
+    ]
+  },
+  {
+    "case_id": "ETC-13",
+    "k": 0,
+    "num_rounds": 5,
+    "consult_fee_total": 125.0,
+    "tests_total": 1239.0,
+    "total_cny": 1364.0,
+    "unpriced": [],
+    "details": [
+      {
+        "test": "体格检查",
+        "item_id": "B000",
+        "item": "床旁问诊与体格检查",
+        "qty": 1,
+        "price": 0.0,
+        "status": "规则"
+      },
+      {
+        "test": "生命体征",
+        "item_id": "B000",
+        "item": "床旁问诊与体格检查",
+        "qty": 1,
+        "price": 0.0,
+        "status": "规则"
+      },
+      {
+        "test": "床旁FAST超声",
+        "item_id": "I008",
+        "item": "床旁超声/FAST",
+        "qty": 1,
+        "price": 70.0,
+        "status": "已核实"
+      },
+      {
+        "test": "血常规",
+        "item_id": "L001",
+        "item": "血常规",
+        "qty": 1,
+        "price": 18.0,
+        "status": "已核实"
+      },
+      {
+        "test": "血淀粉酶",
+        "item_id": "L019",
+        "item": "血淀粉酶",
+        "qty": 1,
+        "price": 6.0,
+        "status": "已核实"
+      },
+      {
+        "test": "腹盆增强CT",
+        "item_id": "I004",
+        "item": "CT增强",
+        "qty": 3,
+        "price": 765.0,
+        "status": "已核实"
+      },
+      {
+        "test": "胸腰椎CT平扫及三维重建",
+        "item_id": "I003",
+        "item": "CT平扫",
+        "qty": 1,
+        "price": 190.0,
+        "status": "已核实"
+      },
+      {
+        "test": "腰椎CT",
+        "item_id": "I003",
+        "item": "CT平扫",
+        "qty": 1,
+        "price": 190.0,
+        "status": "已核实"
+      }
+    ]
+  },
+  {
+    "case_id": "ETC-14",
+    "k": 0,
+    "num_rounds": 3,
+    "consult_fee_total": 75.0,
+    "tests_total": 990.0,
+    "total_cny": 1065.0,
+    "unpriced": [
+      {
+        "test": "指尖血糖",
+        "item_id": "L023",
+        "item": "指尖血糖",
+        "price": null,
+        "status": "待核实"
+      }
+    ],
+    "details": [
+      {
+        "test": "体格检查",
+        "item_id": "B000",
+        "item": "床旁问诊与体格检查",
+        "qty": 1,
+        "price": 0.0,
+        "status": "规则"
+      },
+      {
+        "test": "指尖血糖",
+        "item_id": "L023",
+        "item": "指尖血糖",
+        "price": null,
+        "status": "待核实"
+      },
+      {
+        "test": "头颅CT平扫",
+        "item_id": "I003",
+        "item": "CT平扫",
+        "qty": 1,
+        "price": 190.0,
+        "status": "已核实"
+      },
+      {
+        "test": "头颈部CTA",
+        "item_id": "I005",
+        "item": "CT血管造影CTA",
+        "qty": 2,
+        "price": 800.0,
+        "status": "已核实"
+      }
+    ]
+  },
+  {
+    "case_id": "ETC-15",
+    "k": 0,
+    "num_rounds": 3,
+    "consult_fee_total": 75.0,
+    "tests_total": 952.0,
+    "total_cny": 1027.0,
+    "unpriced": [],
+    "details": [
+      {
+        "test": "体格检查",
+        "item_id": "B000",
+        "item": "床旁问诊与体格检查",
+        "qty": 1,
+        "price": 0.0,
+        "status": "规则"
+      },
+      {
+        "test": "生命体征",
+        "item_id": "B000",
+        "item": "床旁问诊与体格检查",
+        "qty": 1,
+        "price": 0.0,
+        "status": "规则"
+      },
+      {
+        "test": "床旁FAST超声",
+        "item_id": "I008",
+        "item": "床旁超声/FAST",
+        "qty": 1,
+        "price": 70.0,
+        "status": "已核实"
+      },
+      {
+        "test": "胸部X线",
+        "item_id": "I001",
+        "item": "X线摄影(DR)",
+        "qty": 1,
+        "price": 40.0,
+        "status": "已核实"
+      },
+      {
+        "test": "胸腹部增强CT",
+        "item_id": "I004",
+        "item": "CT增强",
+        "qty": 3,
+        "price": 765.0,
+        "status": "已核实"
+      },
+      {
+        "test": "血常规",
+        "item_id": "L001",
+        "item": "血常规",
+        "qty": 1,
+        "price": 18.0,
+        "status": "已核实"
+      },
+      {
+        "test": "动脉血气分析",
+        "item_id": "L007",
+        "item": "动脉血气分析",
+        "qty": 1,
+        "price": 59.0,
+        "status": "已核实"
+      }
+    ]
+  }
+]

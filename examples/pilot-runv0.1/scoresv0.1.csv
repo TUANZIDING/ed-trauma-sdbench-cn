@@ -1,0 +1,16 @@
+case_id,set,score,correct,rounds_incl_diagnosis,questions,tests,cost_cny,unmatched_tests,note
+ETC-01,dev,5,1,4,0,11,1327,2,second run (first run log overwritten; first run also correct)
+ETC-02,dev,5,1,3,0,8,1006,2,
+ETC-03,dev,5,1,2,0,3,120,1,
+ETC-04,dev,5,1,3,0,8,719,1,
+ETC-05,test,5,1,4,5,10,1956,2,
+ETC-06,dev,5,1,3,4,7,317,2,no CT so no AAST grade
+ETC-07,dev,5,1,3,4,2,265,0,
+ETC-08,test,5,1,3,4,6,336,0,
+ETC-09,dev,5,1,4,5,10,282.5,2,
+ETC-10,dev,5,1,2,0,4,167,0,
+ETC-11,test,4,1,3,4,5,170,0,model said primary ACS; reference says secondary — reference label likely wrong per WSACS (DCL for liver injury = primary)
+ETC-12,test,5,1,5,7,9,387,2,second run
+ETC-13,test,4,1,5,5,8,1364,2,hedged 空肠破裂/损伤
+ETC-14,test,5,1,3,5,4,1065,0,
+ETC-15,dev,5,1,3,0,7,1027,1,
