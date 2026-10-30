@@ -1,0 +1,13 @@
+[project]
+name = "ed-trauma-sdbench-cn"
+version = "0.1.0"
+description = "中文急诊创伤序贯诊断基准与教学工具（基于 Microsoft SDBench）/ Chinese ED trauma sequential-diagnosis benchmark and teaching kit built on SDBench"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+dependencies = [
+  "sdbench @ git+https://github.com/microsoft/sdbench.git",
+  "pyyaml>=6",
+]
+
+[tool.uv]
+package = false

@@ -1,0 +1,59 @@
+﻿item_id,item_cn,item_en,price_cny,unit,aliases,region,source_url,effective_date,status,note
+V001,急诊诊查费,ED consultation fee,25,次,诊查费;consultation,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,2021-09-20,已核实,替代 SDBench clinician_cost（原为每轮 300 美元）
+B000,床旁问诊与体格检查,History & bedside exam,0,次,问诊;病史;查体;体格检查;生命体征;GCS;瞳孔;肛门指检;vital;physical exam;bedside exam,,,,规则,包含在诊查费内，不单独计价
+L001,血常规,Complete blood count,18,次,血常规;血细胞分析;CBC;complete blood count;血红蛋白;hemoglobin,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,,已核实,
+L002,血型鉴定(ABO+RhD),ABO/RhD typing,65,次,血型;ABO;blood type,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,,已核实,
+L003,交叉配血,Crossmatch,50,次,交叉配血;配血;crossmatch,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,,已核实,
+L004,凝血功能(PT+APTT+FIB),Coagulation panel (PT/APTT/fibrinogen),45,组,凝血;PT;APTT;INR;纤维蛋白原;coagulation;fibrinogen,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml ; https://ylbzj.wuxi.gov.cn/doc/2025/05/26/4581516.shtml,,已核实（单项累加）,TT 价格待核实，未计入
+L005,凝血酶时间TT,Thrombin time,,项,凝血酶时间;TT;thrombin time,,,,待核实,
+L006,D-二聚体(定量),D-dimer,56,项,D-二聚体;D二聚体;D-dimer,无锡市,https://ylbzj.wuxi.gov.cn/doc/2025/05/26/4581516.shtml,2025-06-01,已核实,
+L007,动脉血气分析,Arterial blood gas,59,次,血气;ABG;blood gas,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,2024-03-01,已核实,
+L008,血乳酸,Lactate,12,项,乳酸;lactate,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,,已核实,
+L009,肝功能(ALT+AST+TBil+Alb),Liver function panel,18,组,肝功能;转氨酶;ALT;AST;胆红素;liver function,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,,已核实（单项累加）,无标准组合价，按4个单项累加；实际组合待核实
+L010,肾功能(尿素+肌酐),Renal function,8,组,肾功能;肌酐;尿素;creatinine;BUN;renal function,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,,已核实（单项累加）,
+L011,电解质(K+Na+Cl),Electrolytes,12,组,电解质;血钾;钾;钠;electrolyte;potassium;sodium,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,,已核实（单项累加）,
+L012,生化组合(大生化),Comprehensive metabolic panel,195,组,生化;生化全套;comprehensive metabolic,,,,待核实,目录有“大生化检验组合”250900001 195元，医院是否按此计费待核实
+L013,心肌肌钙蛋白I,Troponin I,80,项,肌钙蛋白;troponin;cTnI;cTnT,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,,已核实,
+L014,肌酸激酶CK,Creatine kinase,5,项,肌酸激酶;CK;creatine kinase,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,,已核实,
+L015,肌红蛋白,Myoglobin,60,项,肌红蛋白;myoglobin,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,2024-03-01,已核实,
+L016,尿常规,Urinalysis,4.5,次,尿常规;尿液分析;urinalysis,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,2020-01-10,已核实,
+L017,尿妊娠试验,Urine pregnancy test,6,项,尿妊娠;尿hCG;pregnancy test,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,,已核实,
+L018,血hCG,Serum hCG,40,项,血hCG;β-hCG;beta-hCG;serum hCG,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,,已核实,
+L019,血淀粉酶,Amylase,6,项,淀粉酶;amylase,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,,已核实,
+L020,血清脂肪酶,Lipase,10,项,脂肪酶;lipase,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,2024-03-01,已核实,
+L021,血清乙醇浓度,Blood alcohol,30,项,乙醇;酒精浓度;alcohol;ethanol,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,,已核实,
+L022,脑脊液常规,CSF routine,20,次,脑脊液;CSF,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,,已核实,
+L023,指尖血糖,Fingerstick glucose,,次,指尖血糖;快速血糖;血糖;glucose,,,,待核实,待核实
+L024,抗Xa活性,Anti-Xa activity,,项,抗Xa;anti-Xa,,,,待核实,待核实
+L025,降钙素原,Procalcitonin,,项,降钙素原;PCT;procalcitonin,,,,待核实,待核实
+L026,NT-proBNP,NT-proBNP,,项,BNP;NT-proBNP;脑钠肽,,,,待核实,待核实
+L027,甲状腺功能,Thyroid function,,项,甲状腺功能;TSH;FT4;thyroid,,,,待核实,待核实
+L028,EB病毒抗体,EBV serology,,项,EB病毒;EBV;嗜异性,,,,待核实,待核实
+L029,血培养,Blood culture,,项,血培养;blood culture,,,,待核实,待核实
+L030,血清蛋白电泳,Serum protein electrophoresis,,项,蛋白电泳;SPEP;M蛋白,,,,待核实,待核实
+L031,尿毒品筛查,Urine drug screen,,项,毒品;drug screen,,,,待核实,待核实
+L032,尿沉渣/尿脂肪滴,Urine sediment / fat,,项,尿沉渣;脂肪滴;苏丹,,,,待核实,待核实
+L033,离子钙/血镁/血磷/尿酸,Ca/Mg/P/uric acid,,项,离子钙;血镁;血磷;尿酸;magnesium;phosphate;calcium,,,,待核实,待核实
+L034,乳酸脱氢酶LDH,LDH,,项,LDH;乳酸脱氢酶,,,,待核实,待核实
+I001,X线摄影(DR),"X-ray (DR), per region per view",40,部位·体位,X线;胸片;平片;DR;X-ray;radiograph,无锡市,https://ylbzj.wuxi.gov.cn/doc/2025/09/29/4660739.shtml,2025-10-01,已核实,床旁另加收30元/次
+I002,床旁X线加收,Portable X-ray surcharge,30,次,床旁X线;portable,无锡市,https://ylbzj.wuxi.gov.cn/doc/2025/09/29/4660739.shtml,2025-10-01,已核实,
+I003,CT平扫,"CT non-contrast, per region",190,部位,CT平扫;平扫CT;CT;non-contrast CT,无锡市,https://ylbzj.wuxi.gov.cn/doc/2025/09/29/4660739.shtml,2025-10-01,已核实,上腹/下腹/盆腔各算1部位
+I004,CT增强,"Contrast CT, per region",255,部位,增强CT;CT增强;contrast CT;enhanced CT,无锡市,https://ylbzj.wuxi.gov.cn/doc/2025/09/29/4660739.shtml,2025-10-01,已核实,对比剂药品另计
+I005,CT血管造影CTA,"CT angiography, per vessel",400,血管,CTA;CT血管造影;CT angiography;CT肺动脉造影;CTPA,无锡市,https://ylbzj.wuxi.gov.cn/doc/2025/09/29/4660739.shtml,2025-10-01,已核实,胸、腹主动脉各算1血管
+I006,MRI平扫,"MRI non-contrast, per region",440,部位,MRI;磁共振;DWI;MR,无锡市,https://ylbzj.wuxi.gov.cn/doc/2025/09/29/4660739.shtml,2025-10-01,已核实,
+I007,MRI增强,"Contrast MRI, per region",495,部位,MRI增强;增强MRI;contrast MRI,无锡市,https://ylbzj.wuxi.gov.cn/doc/2025/09/29/4660739.shtml,2025-10-01,已核实,
+I008,床旁超声/FAST,Bedside ultrasound / FAST,70,次,FAST;eFAST;床旁超声;bedside ultrasound;POCUS,无锡市,https://ylbzj.wuxi.gov.cn/doc/2026/01/14/4717767.shtml,2026-01-15,已核实,无FAST专项：B超40/部位+床旁加收30；多部位另计
+I009,彩色多普勒超声,"Colour Doppler ultrasound, per region",100,部位,彩超;超声;B超;多普勒;ultrasound;doppler,无锡市,https://ylbzj.wuxi.gov.cn/doc/2026/01/14/4717767.shtml,2026-01-15,已核实,
+I010,经胸心脏超声,Transthoracic echocardiography,276,次,心脏超声;心超;超声心动图;echocardiography;echo,无锡市,https://ylbzj.wuxi.gov.cn/doc/2026/01/14/4717767.shtml,2026-01-15,已核实,
+I011,12导联心电图,12-lead ECG,36,次,心电图;ECG;EKG,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,2026-04-25,已核实,
+I012,脑血管造影DSA,Cerebral DSA,2219,次,脑血管造影;cerebral angiography,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,2026-04-25,已核实,
+I013,选择性动脉造影DSA,Selective arteriography,1524,次,血管造影;DSA;angiography;造影栓塞,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,2024-03-01,待核实,
+I014,动态心电图,Holter,,次,动态心电图;Holter,,,,待核实,待核实
+I015,逆行尿道造影,Retrograde urethrogram,,次,尿道造影;urethrogram,,,,待核实,待核实
+P001,诊断性腹腔穿刺,Diagnostic paracentesis,131,次,腹腔穿刺;腹穿;paracentesis;DPL,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,2025-07,已核实,
+P002,胸腔穿刺,Thoracentesis,160,次,胸腔穿刺;thoracentesis;针刺减压,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,,已核实,
+P003,胸腔闭式引流,Chest tube,584,次,闭式引流;胸腔引流;chest tube;thoracostomy,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,2024-03-01,已核实,耗材另计（治疗项目，评测时一般不计入诊断费用）
+P004,心包穿刺,Pericardiocentesis,272,次,心包穿刺;pericardiocentesis,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,,已核实,
+P005,膀胱压/腹内压监测,Bladder (intra-abdominal) pressure,10,小时,膀胱压;腹内压;bladder pressure;intra-abdominal pressure,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,2025-08-01,已核实,按动态监测1小时计；单次测量无专项
+P006,眼底检查,Fundoscopy,7,单侧,眼底;fundoscopy;fundus,苏州市,http://ybj.suzhou.gov.cn/szybj/zlxmcx/202201/d52d8c1b890b4b5a9fff0c7ddbe1c71f.shtml,2026-06-26,已核实,
+P007,骨筋膜室压力测定,Compartment pressure,,次,骨筋膜室压力;compartment pressure,,,,待核实,待核实

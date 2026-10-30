@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+results/
+*.pyc
+.DS_Store
+# 受许可限制的数据不得入库 / licensed datasets must never be committed
+data/processed_case_data/nejm/
+data/processed_case_data/mimic/
+data/costing_data/*.xlsx

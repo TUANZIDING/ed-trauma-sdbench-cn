@@ -1,0 +1,21 @@
+{
+  "_note": "演示用虚构会话：不是任何真实学员或模型的结果，仅用于展示报告格式。",
+  "case_id": "ETC-01",
+  "case_title": "病例 ETC-01：一名46岁男性电动车与货车碰撞后低血压",
+  "learner": "演示学员（PGY-2）",
+  "started_at": "2026-10-30T09:00:00+08:00",
+  "finished_at": "2026-10-30T09:14:30+08:00",
+  "requested_tests": [
+    "Question for the patient: 有无抗凝药物使用史？",
+    "Question for the patient: 疼痛部位在哪里？",
+    "Question for the patient: 伤后是否排尿？",
+    "床旁FAST超声", "胸部X线", "血常规", "动脉血气分析",
+    "头颅CT平扫", "胸腹盆增强CT"
+  ],
+  "requested_tests_only": ["床旁FAST超声", "胸部X线", "血常规", "动脉血气分析", "头颅CT平扫", "胸腹盆增强CT"],
+  "test_logs": [],
+  "num_test_rounds": 3,
+  "model_diagnosis": "脾破裂伴失血性休克",
+  "diagnosis_score": 2,
+  "correct": false
+}

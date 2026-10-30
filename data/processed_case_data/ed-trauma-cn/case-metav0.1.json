@@ -1,0 +1,495 @@
+{
+  "ETC-01": {
+    "difficulty": "中",
+    "topic": "骨盆骨折出血",
+    "key_differentials": [
+      "腹腔内实质脏器（肝、脾）破裂出血",
+      "血胸",
+      "长骨骨折出血（股骨）",
+      "神经源性休克（脊髓损伤）",
+      "尿道/膀胱损伤"
+    ],
+    "key_clues": [
+      "FAST 腹腔阴性而血流动力学不稳定，提示出血来源在腹膜后/骨盆",
+      "骨盆X线耻骨联合分离 >2.5 cm、右骶髂关节增宽",
+      "会阴/阴囊瘀斑、双下肢不等长外旋",
+      "乳酸升高、碱缺失加重，对晶体液仅短暂反应"
+    ],
+    "guideline_refs": [
+      "ATLS Student Course Manual (American College of Surgeons) - Shock / Abdominal and Pelvic Trauma",
+      "WSES classification and guidelines for pelvic trauma (Coccolini et al., World J Emerg Surg 2017)",
+      "European guideline on management of major bleeding and coagulopathy following trauma, 6th ed (Rossaint et al., Crit Care 2023)"
+    ],
+    "final_diagnosis": "不稳定型骨盆环骨折（前后挤压型 APC-III，右骶髂关节分离）伴腹膜后出血、失血性休克（Unstable pelvic ring fracture, APC-III, with retroperitoneal hemorrhage and hemorrhagic shock）",
+    "key_tests": [
+      "床旁FAST超声",
+      "骨盆前后位X线",
+      "胸部X线",
+      "血常规",
+      "血气分析+乳酸",
+      "凝血功能",
+      "全身增强CT（含骨盆CTA）"
+    ],
+    "source_file": "case01-pelvic-hemorrhagev0.1.md"
+  },
+  "ETC-02": {
+    "difficulty": "易",
+    "topic": "张力性气胸",
+    "key_differentials": [
+      "单纯性气胸",
+      "大量血胸",
+      "心包填塞",
+      "肺挫伤",
+      "连枷胸"
+    ],
+    "key_clues": [
+      "低血压合并右侧呼吸音消失、叩诊鼓音、气管左偏、颈静脉怒张",
+      "床旁超声右侧肺滑动征消失、见肺点",
+      "张力性气胸是临床诊断，不应等待胸片"
+    ],
+    "guideline_refs": [
+      "ATLS Student Course Manual (American College of Surgeons) - Thoracic Trauma",
+      "BTS guideline for pleural disease (Roberts et al., Thorax 2023) - 仅作气胸处理参考"
+    ],
+    "final_diagnosis": "右侧张力性气胸伴右侧多发肋骨骨折（Right tension pneumothorax with multiple right rib fractures）",
+    "key_tests": [
+      "床旁胸部超声(eFAST)",
+      "胸部X线",
+      "血气分析",
+      "胸部CT"
+    ],
+    "source_file": "case02-tension-pneumothoraxv0.1.md"
+  },
+  "ETC-03": {
+    "difficulty": "中",
+    "topic": "心包填塞",
+    "key_differentials": [
+      "张力性气胸",
+      "大量血胸",
+      "失血性休克（胸壁/肋间血管或腹腔损伤）",
+      "心肌挫伤/心律失常"
+    ],
+    "key_clues": [
+      "伤口位于'危险区'（胸骨旁、乳头连线以内）",
+      "Beck 三联征：低血压、颈静脉怒张、心音遥远；可见奇脉",
+      "FAST 心包剑突下切面见心包积液及右室舒张期塌陷",
+      "双肺呼吸音存在、无气管偏移，可区分张力性气胸"
+    ],
+    "guideline_refs": [
+      "ATLS Student Course Manual (American College of Surgeons) - Thoracic Trauma",
+      "EAST practice management guideline: emergency department thoracotomy (Seamon et al., J Trauma Acute Care Surg 2015)"
+    ],
+    "final_diagnosis": "胸部穿透伤致右心室破裂、急性心包填塞（Penetrating cardiac injury of the right ventricle with acute pericardial tamponade）",
+    "key_tests": [
+      "床旁FAST超声",
+      "胸部X线",
+      "心电图",
+      "血常规",
+      "血气分析"
+    ],
+    "source_file": "case03-cardiac-tamponadev0.1.md"
+  },
+  "ETC-04": {
+    "difficulty": "难",
+    "topic": "钝性主动脉损伤",
+    "key_differentials": [
+      "胸骨骨折/肋骨骨折所致胸痛",
+      "肺挫伤",
+      "心肌挫伤",
+      "胸椎骨折伴纵隔血肿",
+      "急性主动脉夹层（非创伤性）"
+    ],
+    "key_clues": [
+      "高速减速伤机制本身即需筛查主动脉损伤",
+      "胸片纵隔增宽、主动脉结模糊、左侧胸膜帽、气管右移",
+      "双上肢血压差、肩胛间区疼痛",
+      "CTA 是确诊手段，主动脉峡部（左锁骨下动脉开口远端）最常见"
+    ],
+    "guideline_refs": [
+      "ATLS Student Course Manual (American College of Surgeons) - Thoracic Trauma",
+      "Society for Vascular Surgery clinical practice guidelines for endovascular repair of traumatic thoracic aortic injury (Lee et al., J Vasc Surg 2011)",
+      "EAST guideline: blunt thoracic aortic injury (Fox et al., J Trauma Acute Care Surg 2015)"
+    ],
+    "final_diagnosis": "钝性胸主动脉损伤（主动脉峡部假性动脉瘤，SVS III 级）（Blunt thoracic aortic injury at the isthmus with pseudoaneurysm, SVS grade III）",
+    "key_tests": [
+      "胸部X线",
+      "床旁FAST超声",
+      "胸部CTA（主动脉）",
+      "双上肢血压测量",
+      "心电图",
+      "肌钙蛋白"
+    ],
+    "source_file": "case04-blunt-aortic-injuryv0.1.md"
+  },
+  "ETC-05": {
+    "difficulty": "难",
+    "topic": "主动脉夹层（以创伤为表现的非创伤性急症）",
+    "key_differentials": [
+      "单纯机械性跌倒致头外伤",
+      "颅内出血（创伤性或高血压性）",
+      "缺血性卒中",
+      "心律失常性晕厥",
+      "急性冠脉综合征",
+      "肺栓塞"
+    ],
+    "key_clues": [
+      "跌倒前突发'撕裂样'胸背痛（需主动追问）",
+      "双上肢血压差 >20 mmHg、右桡动脉搏动减弱",
+      "新出现主动脉瓣舒张期杂音",
+      "头颅CT阴性不能解释神志改变和低血压；心超见升主动脉内膜片及心包积液",
+      "D-二聚体显著升高"
+    ],
+    "guideline_refs": [
+      "2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease (Isselbacher et al., Circulation 2022)",
+      "2024 ESC Guidelines for the management of peripheral arterial and aortic diseases (Mazzolai et al., Eur Heart J 2024)",
+      "ATLS Student Course Manual - Primary survey / Head trauma"
+    ],
+    "final_diagnosis": "急性 Stanford A 型主动脉夹层（累及右头臂干）致晕厥后跌倒，伴心包积血（Acute Stanford type A aortic dissection with innominate artery involvement and hemopericardium, presenting as syncope with fall）",
+    "key_tests": [
+      "头颅CT平扫",
+      "心电图",
+      "双上肢血压测量",
+      "床旁心脏超声",
+      "D-二聚体",
+      "肌钙蛋白",
+      "主动脉CTA（胸腹盆）"
+    ],
+    "source_file": "case05-aortic-dissection-mimicv0.1.md"
+  },
+  "ETC-06": {
+    "difficulty": "中",
+    "topic": "脾破裂",
+    "key_differentials": [
+      "肾结石/肾绞痛",
+      "急性胰腺炎",
+      "自发性气胸",
+      "血管迷走性晕厥",
+      "消化道穿孔"
+    ],
+    "key_clues": [
+      "3天前篮球比赛中左下胸被膝盖撞击（需主动追问外伤史）",
+      "Kehr 征（左肩放射痛）",
+      "晕厥+心动过速+血红蛋白下降",
+      "FAST 脾周及盆腔积液；CT 见脾包膜下血肿破裂",
+      "近期'感冒'伴咽痛（可追问，传染性单核细胞增多症应除外）"
+    ],
+    "guideline_refs": [
+      "WSES guidelines: Splenic trauma (Coccolini et al., World J Emerg Surg 2017)",
+      "AAST Organ Injury Scale - Spleen (2018 revision, Kozar et al., J Trauma Acute Care Surg 2018)",
+      "ATLS Student Course Manual - Abdominal and Pelvic Trauma"
+    ],
+    "final_diagnosis": "迟发性脾破裂（包膜下血肿破裂，AAST IV 级）伴腹腔积血、失血性休克（Delayed splenic rupture from a ruptured subcapsular hematoma, AAST grade IV, with hemoperitoneum and hemorrhagic shock）",
+    "key_tests": [
+      "床旁FAST超声",
+      "血常规",
+      "腹部增强CT",
+      "EB病毒抗体"
+    ],
+    "source_file": "case06-delayed-splenic-rupturev0.1.md"
+  },
+  "ETC-07": {
+    "difficulty": "易",
+    "topic": "颅脑外伤",
+    "key_differentials": [
+      "急性硬膜下血肿",
+      "脑挫裂伤",
+      "弥漫性轴索损伤",
+      "酒精或药物中毒",
+      "低血糖",
+      "癫痫发作后状态"
+    ],
+    "key_clues": [
+      "'昏迷—清醒—再昏迷'的中间清醒期",
+      "右侧瞳孔散大、对光反射迟钝，左侧肢体肌力下降",
+      "Cushing 反应：血压升高、心率减慢",
+      "头颅CT双凸透镜形高密度影，不跨越颅缝"
+    ],
+    "guideline_refs": [
+      "Guidelines for the Management of Severe Traumatic Brain Injury, 4th ed (Brain Trauma Foundation, Carney et al., Neurosurgery 2017)",
+      "Surgical management of acute epidural hematomas (Bullock et al., Neurosurgery 2006)",
+      "ATLS Student Course Manual - Head Trauma"
+    ],
+    "final_diagnosis": "急性硬膜外血肿（右颞，伴颞骨骨折、脑中线移位）（Acute right temporal epidural hematoma with temporal bone fracture and midline shift）",
+    "key_tests": [
+      "头颅CT平扫",
+      "指尖血糖",
+      "血常规",
+      "凝血功能",
+      "颈椎CT"
+    ],
+    "source_file": "case07-epidural-hematomav0.1.md"
+  },
+  "ETC-08": {
+    "difficulty": "中",
+    "topic": "颅脑外伤（老年抗凝）",
+    "key_differentials": [
+      "急性缺血性卒中",
+      "低血糖",
+      "低钠血症",
+      "感染（尿路感染/肺炎）致谵妄",
+      "高血压性脑出血",
+      "癫痫非惊厥发作"
+    ],
+    "key_clues": [
+      "长期口服利伐沙班（房颤）——需主动核对用药",
+      "轻微头部外伤后迟发意识改变",
+      "右侧肢体轻偏瘫+言语含糊",
+      "头颅CT新月形高密度影跨越颅缝",
+      "末次服药时间决定逆转策略（安得塞奈或凝血酶原复合物）"
+    ],
+    "guideline_refs": [
+      "Guidelines for the Management of Severe Traumatic Brain Injury, 4th ed (Brain Trauma Foundation 2016)",
+      "European guideline on management of major bleeding and coagulopathy following trauma, 6th ed (Rossaint et al., Crit Care 2023) - 抗凝逆转",
+      "NICE NG232 Head injury: assessment and early management (2023) - 抗凝患者头外伤CT指征"
+    ],
+    "final_diagnosis": "抗凝（利伐沙班）相关急性左侧硬膜下血肿伴中线移位（Rivaroxaban-associated acute left subdural hematoma with midline shift）",
+    "key_tests": [
+      "头颅CT平扫",
+      "指尖血糖",
+      "电解质",
+      "凝血功能",
+      "抗Xa活性",
+      "心电图",
+      "尿常规"
+    ],
+    "source_file": "case08-anticoagulant-sdhv0.1.md"
+  },
+  "ETC-09": {
+    "difficulty": "中",
+    "topic": "挤压综合征",
+    "key_differentials": [
+      "单纯下肢骨折伴失血",
+      "急性动脉损伤/肢体缺血",
+      "脱水致肾前性氮质血症",
+      "急性冠脉综合征",
+      "深静脉血栓"
+    ],
+    "key_clues": [
+      "长时间（>4小时）肢体受压、解除压迫后病情恶化",
+      "心电图 T 波高尖、QRS 增宽，血钾 7.2 mmol/L",
+      "CK 显著升高（>5000 U/L），尿呈酱油色、隐血阳性而镜下红细胞少",
+      "小腿张力高、被动牵拉痛、骨筋膜室压力升高"
+    ],
+    "guideline_refs": [
+      "Rhabdomyolysis and acute kidney injury (Bosch, Poch, Grau, N Engl J Med 2009)",
+      "Recommendations for the management of crush victims in mass disasters (Sever, Vanholder, Lameire, Nephrol Dial Transplant 2012)",
+      "ATLS Student Course Manual - Musculoskeletal Trauma"
+    ],
+    "final_diagnosis": "挤压综合征：右下肢挤压伤所致横纹肌溶解、高钾血症（伴心电图改变）及急性肾损伤，合并右小腿骨筋膜室综合征（Crush syndrome with traumatic rhabdomyolysis, life-threatening hyperkalemia, acute kidney injury, and right leg compartment syndrome）",
+    "key_tests": [
+      "心电图",
+      "血气分析+电解质",
+      "肌酸激酶",
+      "肌红蛋白",
+      "肾功能",
+      "尿常规",
+      "下肢X线",
+      "骨筋膜室压力测定"
+    ],
+    "source_file": "case09-crush-syndromev0.1.md"
+  },
+  "ETC-10": {
+    "difficulty": "中",
+    "topic": "脂肪栓塞综合征",
+    "key_differentials": [
+      "肺血栓栓塞症",
+      "医院获得性肺炎/误吸",
+      "隐匿性颅脑损伤（迟发血肿）",
+      "输血相关急性肺损伤",
+      "镇痛药物（阿片类）过量",
+      "脓毒症"
+    ],
+    "key_clues": [
+      "长骨骨折后 24–72 小时出现呼吸、神经、皮肤三联征",
+      "腋下、结膜、口腔黏膜瘀点",
+      "CT肺动脉造影无充盈缺损而有双肺弥漫磨玻璃影",
+      "头颅MRI DWI '星空征'；头颅CT阴性",
+      "血小板下降、贫血、眼底视网膜出血/渗出"
+    ],
+    "guideline_refs": [
+      "Gurd and Wilson criteria (Gurd AR, Wilson RI. J Bone Joint Surg Br 1974)",
+      "Fat embolism syndrome review (Kosova, Bergmark, Piazza, Circulation 2015)",
+      "ATLS Student Course Manual - Musculoskeletal Trauma"
+    ],
+    "final_diagnosis": "脂肪栓塞综合征（股骨干骨折后，伴低氧血症、脑病及结膜/腋下瘀点）（Fat embolism syndrome after femoral shaft fracture with hypoxemia, encephalopathy and petechial rash）",
+    "key_tests": [
+      "动脉血气分析",
+      "胸部X线",
+      "CT肺动脉造影",
+      "头颅CT平扫",
+      "头颅MRI（含DWI）",
+      "血常规",
+      "眼底检查",
+      "D-二聚体"
+    ],
+    "source_file": "case10-fat-embolismv0.1.md"
+  },
+  "ETC-11": {
+    "difficulty": "难",
+    "topic": "腹腔间隔室综合征",
+    "key_differentials": [
+      "腹腔内再出血",
+      "张力性气胸",
+      "低血容量致肾前性少尿",
+      "急性呼吸窘迫综合征",
+      "导尿管堵塞",
+      "腹腔感染/脓毒性休克"
+    ],
+    "key_clues": [
+      "24小时内晶体液 >10 L、大量输血",
+      "腹部高度膨隆紧张，少尿不随补液改善",
+      "气道峰压/平台压升高，PaCO2 升高",
+      "膀胱压（IAP）>20 mmHg 伴新发器官功能障碍",
+      "血红蛋白稳定、引流量不多，不支持再出血"
+    ],
+    "guideline_refs": [
+      "WSACS consensus definitions and clinical practice guidelines for intra-abdominal hypertension and abdominal compartment syndrome (Kirkpatrick et al., Intensive Care Med 2013)",
+      "European guideline on management of major bleeding and coagulopathy following trauma, 6th ed (Rossaint et al., Crit Care 2023) - 限制性晶体液复苏"
+    ],
+    "final_diagnosis": "继发性腹腔间隔室综合征（大量液体复苏后，膀胱压 28 mmHg 伴少尿及通气障碍）（Secondary abdominal compartment syndrome after massive resuscitation）",
+    "key_tests": [
+      "膀胱压测定",
+      "动脉血气分析",
+      "血常规",
+      "床旁超声",
+      "胸部X线",
+      "肾功能"
+    ],
+    "source_file": "case11-abdominal-compartmentv0.1.md"
+  },
+  "ETC-12": {
+    "difficulty": "中",
+    "topic": "老年髋部骨折合并隐匿问题",
+    "key_differentials": [
+      "机械性跌倒（绊倒、视力差）",
+      "体位性低血压/药物（降压药、镇静药）",
+      "低血糖",
+      "急性冠脉综合征",
+      "短暂性脑缺血发作/卒中",
+      "脱水/感染",
+      "病理性骨折（骨转移、骨髓瘤）"
+    ],
+    "key_clues": [
+      "跌倒前无先兆'突然眼前发黑'——需追问跌倒经过",
+      "心率 38 次/分且不随疼痛加快",
+      "心电图 P 波与 QRS 完全分离（房室分离）、宽 QRS 逸搏",
+      "近两个月反复头晕、乏力、两次'差点摔倒'",
+      "老年髋部骨折必须问'为什么摔'"
+    ],
+    "guideline_refs": [
+      "2018 ACC/AHA/HRS Guideline on the Evaluation and Management of Patients With Bradycardia and Cardiac Conduction Delay (Kusumoto et al., Circulation 2019)",
+      "2018 ESC Guidelines for the diagnosis and management of syncope (Brignole et al., Eur Heart J 2018)",
+      "NICE CG124 Hip fracture: management (updated 2023)"
+    ],
+    "final_diagnosis": "左股骨颈骨折（Garden IV 型），跌倒原因为三度房室传导阻滞所致心源性晕厥（Left femoral neck fracture, Garden IV, caused by a fall due to syncope from complete heart block）",
+    "key_tests": [
+      "髋关节X线（骨盆正位+左髋侧位）",
+      "心电图",
+      "血常规",
+      "电解质",
+      "肌钙蛋白",
+      "甲状腺功能",
+      "心脏超声",
+      "头颅CT平扫"
+    ],
+    "source_file": "case12-hip-fracture-av-blockv0.1.md"
+  },
+  "ETC-13": {
+    "difficulty": "难",
+    "topic": "空腔脏器损伤（多发伤隐匿损伤）",
+    "key_differentials": [
+      "腹壁挫伤",
+      "胰腺/十二指肠损伤",
+      "肠系膜血肿/肠缺血",
+      "实质脏器损伤",
+      "腰椎压缩骨折单纯疼痛"
+    ],
+    "key_clues": [
+      "下腹部横行安全带勒痕（安全带征）",
+      "胸腰段 Chance 骨折与空腔脏器损伤高度相关",
+      "首次CT仅见少量无实质脏器损伤的游离液体、肠系膜条索影",
+      "腹痛进行性加重、发热、白细胞升高，复查CT出现游离气体"
+    ],
+    "guideline_refs": [
+      "EAST practice management guideline: evaluation and management of small bowel injury / blunt hollow viscus injury",
+      "WSES guidelines (Coccolini et al.) - 钝性腹部创伤非手术治疗中的空腔脏器损伤风险",
+      "ATLS Student Course Manual - Abdominal and Pelvic Trauma / Spine Trauma"
+    ],
+    "final_diagnosis": "钝性小肠穿孔（近端空肠）伴肠系膜挫伤、安全带征，合并 L2 椎体 Chance 骨折（Blunt jejunal perforation with mesenteric contusion and seat-belt sign, associated with L2 Chance fracture）",
+    "key_tests": [
+      "床旁FAST超声",
+      "腹部增强CT",
+      "胸腰椎CT",
+      "血常规",
+      "血淀粉酶",
+      "复查腹部CT",
+      "诊断性腹腔穿刺"
+    ],
+    "source_file": "case13-hollow-viscus-chancev0.1.md"
+  },
+  "ETC-14": {
+    "difficulty": "难",
+    "topic": "颅脑/颈部外伤（钝性脑血管损伤）",
+    "key_differentials": [
+      "迟发性颅内血肿",
+      "弥漫性轴索损伤",
+      "脂肪栓塞综合征",
+      "低血糖",
+      "癫痫发作后 Todd 麻痹",
+      "转换障碍"
+    ],
+    "key_clues": [
+      "安全带颈部勒痕+左侧颈部疼痛、左侧 Horner 综合征（瞳孔缩小、上睑下垂）",
+      "头颅CT伤后初次阴性，神经症状在中间间隔后出现",
+      "符合 Denver/扩展 Denver 筛查标准（颈部安全带征、锁骨骨折+颈部软组织损伤、不能用CT解释的局灶神经体征）",
+      "颈部CTA 显示颈内动脉管腔不规则狭窄、壁内血肿"
+    ],
+    "guideline_refs": [
+      "EAST practice management guideline: screening for blunt cerebrovascular injury (Bromberg et al., J Trauma 2010)",
+      "Western Trauma Association critical decisions: blunt cerebrovascular injury (Biffl et al., J Trauma Acute Care Surg 2020)",
+      "AHA/ASA Guidelines for the Early Management of Patients With Acute Ischemic Stroke (Powers et al., Stroke 2019)"
+    ],
+    "final_diagnosis": "钝性左颈内动脉夹层（Biffl II 级，伴管腔狭窄）致左侧大脑中动脉区急性缺血性卒中（Blunt left internal carotid artery dissection, Biffl grade II, causing acute left MCA ischemic stroke）",
+    "key_tests": [
+      "头颅CT平扫",
+      "指尖血糖",
+      "头颈部CTA",
+      "头颅MRI（含DWI）",
+      "颈部血管彩超",
+      "凝血功能"
+    ],
+    "source_file": "case14-blunt-carotid-injuryv0.1.md"
+  },
+  "ETC-15": {
+    "difficulty": "中",
+    "topic": "膈肌破裂（多发伤隐匿损伤）",
+    "key_differentials": [
+      "左侧血胸/血气胸",
+      "左侧气胸",
+      "脾破裂",
+      "左下肺挫伤",
+      "膈肌膨升（先天性/陈旧性）"
+    ],
+    "key_clues": [
+      "左胸片'气液平'或胃泡上移、左膈面轮廓消失，误判为血气胸",
+      "插入胃管后胃管头端位于左侧胸腔",
+      "左胸闻及肠鸣音",
+      "CT 见'领口征'、膈肌不连续、腹腔脏器疝入胸腔",
+      "盲目放置胸腔引流管可能损伤胃/结肠"
+    ],
+    "guideline_refs": [
+      "ATLS Student Course Manual - Thoracic Trauma (traumatic diaphragmatic injury)",
+      "EAST practice management guideline: diagnosis and management of diaphragmatic injuries (McDonald et al., J Trauma Acute Care Surg 2018)"
+    ],
+    "final_diagnosis": "创伤性左侧膈肌破裂伴胃及结肠脾曲疝入胸腔（Traumatic left diaphragmatic rupture with intrathoracic herniation of the stomach and splenic flexure）",
+    "key_tests": [
+      "胸部X线",
+      "床旁FAST超声",
+      "胃管置入后胸片",
+      "胸腹部增强CT",
+      "血常规",
+      "动脉血气分析"
+    ],
+    "source_file": "case15-diaphragm-rupturev0.1.md"
+  }
+}
