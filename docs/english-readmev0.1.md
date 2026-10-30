@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="coverv0.1.svg" width="100%" alt="Concept cover: from a one-line summary, ask, test and image step by step, then reach a scored, costed diagnosis">
+  <img src="coverv0.2.svg" width="100%" alt="Concept cover: from a one-line summary, ask, test and image step by step, then reach a scored, costed diagnosis">
 </p>
 
 <h1 align="center">ED Trauma SDBench-CN</h1>

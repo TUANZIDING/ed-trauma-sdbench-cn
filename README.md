@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/coverv0.1.svg" width="100%" alt="封面概念图：从一句话摘要出发，沿心电波形逐轮问诊、检验、影像，最后得出诊断、Judge 评分并计算费用">
+  <img src="docs/coverv0.2.svg" width="100%" alt="封面：合成病例、一句话摘要、问诊检验影像循环、Judge 评分、人民币计价五步工作流，输出评测 AI 与训练学员">
 </p>
 
 <h1 align="center">急诊创伤序贯诊断基准 · ED Trauma SDBench-CN</h1>

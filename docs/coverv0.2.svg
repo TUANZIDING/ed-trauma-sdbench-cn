@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 600" width="1440" height="600" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans SC, Noto Sans CJK SC, sans-serif" role="img" aria-label="封面：急诊创伤序贯诊断工作流——合成病例、一句话摘要、诊断者与守门人循环问诊检验影像、Judge 评分、人民币计价，输出评测 AI 与训练学员">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b2f3a"/><stop offset=".55" stop-color="#124b55"/><stop offset="1" stop-color="#1a6266"/></linearGradient>
+<radialGradient id="glow" cx=".8" cy=".15" r=".6"><stop offset="0" stop-color="#e9d3a1" stop-opacity=".16"/><stop offset="1" stop-color="#e9d3a1" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow2" cx=".1" cy=".95" r=".5"><stop offset="0" stop-color="#5fb3b0" stop-opacity=".14"/><stop offset="1" stop-color="#5fb3b0" stop-opacity="0"/></radialGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity=".11"/><stop offset="1" stop-color="#ffffff" stop-opacity=".04"/></linearGradient>
+<linearGradient id="hl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e9d3a1" stop-opacity=".20"/><stop offset="1" stop-color="#e9d3a1" stop-opacity=".06"/></linearGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d9b46a" stop-opacity="0"/><stop offset=".12" stop-color="#d9b46a" stop-opacity=".7"/><stop offset=".88" stop-color="#d9b46a" stop-opacity=".7"/><stop offset="1" stop-color="#d9b46a" stop-opacity="0"/></linearGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#ffffff" opacity=".05"/></pattern>
+<filter id="sh" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#04161c" flood-opacity=".35"/></filter>
+</defs>
+<rect width="1440" height="600" fill="url(#bg)"/><rect width="1440" height="600" fill="url(#dots)"/><rect width="1440" height="600" fill="url(#glow)"/><rect width="1440" height="600" fill="url(#glow2)"/>
+<path d="M0 552 H180 L198 552 L212 526 L228 576 L242 540 L254 552 H760" fill="none" stroke="#d9b46a" stroke-width="1.5" opacity=".3" stroke-linejoin="round"/>
+<text x="80" y="92" font-size="14" letter-spacing="5" fill="#d9b46a">ED TRAUMA · SDBENCH-CN</text>
+<text x="80" y="150" font-size="46" font-weight="600" fill="#ffffff" letter-spacing="2">急诊创伤序贯诊断</text>
+<text x="80" y="190" font-size="18" fill="#bcd6d6" letter-spacing="1">一句话起步，边问边查，诊断要准，检查要省</text>
+<rect x="80" y="214" width="56" height="2" fill="#d9b46a"/>
+<text x="1360" y="92" font-size="13" fill="#9cc0c0" text-anchor="end" letter-spacing="1">15 例合成病例 · 江苏/无锡价格 · 研究与教学</text>
+<path d="M40 370 H1400" stroke="url(#line)" stroke-width="1.5"/>
+<g filter="url(#sh)"><rect x="80" y="290" width="200" height="160" rx="22" fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.18" stroke-width="1.2"/></g>
+<text x="102" y="322" font-size="12" fill="#d9b46a" letter-spacing="2">01</text>
+<path d="M166.0 334 h20 l10 10 v28 h-30 z M186.0 334 v10 h10 M172.0 354 h16 M172.0 361 h12" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="180.0" y="408" font-size="19" font-weight="600" fill="#ffffff" text-anchor="middle">合成病例</text>
+<text x="180.0" y="432" font-size="12.5" fill="#9cc0c0" text-anchor="middle" letter-spacing=".5">Synthetic case</text>
+<g filter="url(#sh)"><rect x="325" y="290" width="200" height="160" rx="22" fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.18" stroke-width="1.2"/></g>
+<text x="347" y="322" font-size="12" fill="#d9b46a" letter-spacing="2">02</text>
+<rect x="405.0" y="338" width="40" height="26" rx="6" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><path d="M417.0 364 l-4 8 l10 -8 M414.0 351 h22" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="425.0" y="408" font-size="19" font-weight="600" fill="#ffffff" text-anchor="middle">一句话摘要</text>
+<text x="425.0" y="432" font-size="12.5" fill="#9cc0c0" text-anchor="middle" letter-spacing=".5">One-line summary</text>
+<g filter="url(#sh)"><rect x="570" y="290" width="300" height="160" rx="22" fill="url(#hl)" stroke="#d9b46a" stroke-opacity="0.55" stroke-width="1.2"/></g>
+<text x="592" y="322" font-size="12" fill="#d9b46a" letter-spacing="2">03</text>
+<path d="M702.0 352 A18 18 0 0 1 735.0 342" fill="none" stroke="#e9d3a1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M736.0 332 L736.0 343 L725.0 343" fill="none" stroke="#e9d3a1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M738.0 352 A18 18 0 0 1 705.0 362" fill="none" stroke="#e9d3a1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M704.0 372 L704.0 361 L715.0 361" fill="none" stroke="#e9d3a1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="720.0" y="408" font-size="19" font-weight="600" fill="#ffffff" text-anchor="middle">问诊 · 检验 · 影像</text>
+<text x="720.0" y="432" font-size="12.5" fill="#9cc0c0" text-anchor="middle" letter-spacing=".5">Agent ⇄ Gatekeeper</text>
+<rect x="778" y="306" width="74" height="24" rx="12" fill="#d9b46a" fill-opacity=".18" stroke="#d9b46a" stroke-opacity=".5"/><text x="815" y="323" font-size="12" fill="#f0dfb6" text-anchor="middle">循环 N 轮</text>
+<g filter="url(#sh)"><rect x="915" y="290" width="200" height="160" rx="22" fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.18" stroke-width="1.2"/></g>
+<text x="937" y="322" font-size="12" fill="#d9b46a" letter-spacing="2">04</text>
+<circle cx="987.0" cy="352" r="4.5" fill="#d9b46a" stroke="#d9b46a" stroke-width="1.4"/>
+<circle cx="1001.0" cy="352" r="4.5" fill="#d9b46a" stroke="#d9b46a" stroke-width="1.4"/>
+<circle cx="1015.0" cy="352" r="4.5" fill="#d9b46a" stroke="#d9b46a" stroke-width="1.4"/>
+<circle cx="1029.0" cy="352" r="4.5" fill="#d9b46a" stroke="#d9b46a" stroke-width="1.4"/>
+<circle cx="1043.0" cy="352" r="4.5" fill="none" stroke="#d9b46a" stroke-width="1.4"/>
+<text x="1015.0" y="408" font-size="19" font-weight="600" fill="#ffffff" text-anchor="middle">Judge 评分</text>
+<text x="1015.0" y="432" font-size="12.5" fill="#9cc0c0" text-anchor="middle" letter-spacing=".5">Score 1–5</text>
+<g filter="url(#sh)"><rect x="1160" y="290" width="200" height="160" rx="22" fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.18" stroke-width="1.2"/></g>
+<text x="1182" y="322" font-size="12" fill="#d9b46a" letter-spacing="2">05</text>
+<circle cx="1260.0" cy="352" r="18" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><path d="M1253.0 343 l7 9 l7 -9 M1260.0 352 v11 M1253.0 354 h14 M1253.0 359 h14" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1260.0" y="408" font-size="19" font-weight="600" fill="#ffffff" text-anchor="middle">人民币计价</text>
+<text x="1260.0" y="432" font-size="12.5" fill="#9cc0c0" text-anchor="middle" letter-spacing=".5">Cost in CNY</text>
+<path d="M298 364 l7 6 l-7 6" fill="none" stroke="#d9b46a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>
+<path d="M543 364 l7 6 l-7 6" fill="none" stroke="#d9b46a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>
+<path d="M888 364 l7 6 l-7 6" fill="none" stroke="#d9b46a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>
+<path d="M1133 364 l7 6 l-7 6" fill="none" stroke="#d9b46a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>
+<text x="980" y="494.5" font-size="13" fill="#9cc0c0" text-anchor="end" letter-spacing="1">同一套病例，两种用途</text>
+<rect x="1000" y="472" width="170" height="34" rx="17" fill="#5fb3b0" fill-opacity=".14" stroke="#5fb3b0" stroke-opacity=".6"/>
+<circle cx="1022" cy="489" r="4" fill="#5fb3b0"/><text x="1093" y="494.5" font-size="14.5" fill="#ffffff" text-anchor="middle">A · 评测 AI</text>
+<rect x="1190" y="472" width="170" height="34" rx="17" fill="#d98aa6" fill-opacity=".14" stroke="#d98aa6" stroke-opacity=".6"/>
+<circle cx="1212" cy="489" r="4" fill="#d98aa6"/><text x="1283" y="494.5" font-size="14.5" fill="#ffffff" text-anchor="middle">B · 训练学员</text>
+</svg>
