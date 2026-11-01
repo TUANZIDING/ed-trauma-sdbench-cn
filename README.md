@@ -133,6 +133,7 @@ uv run python scripts/teaching-reportv0.1.py results/<run>/json/case_k0_ETC-01.j
 | 已完成 | 人民币计价脚本、学员反馈报告脚本 | 报告示例为虚构会话 |
 | <a id="pilot"></a>试点 · 非官方 | 用 Hark 自带模型跑 15 例 | 15/15 命中主要诊断，均分 4.87，平均 ¥700.6/例；简化守门人脚本、作者本人评分，不可与论文结果比较，见 [`examples/pilot-runv0.1/`](examples/pilot-runv0.1/) |
 | 已知问题 | 病例偏易 | "体格检查"一次返回全部关键体征，下一版拆成按系统返回 |
+| 设计中 · v0.2 | 模拟训练方法映射、创伤安全分类法、对抗病例规格、研究设计 | 草案，未经 Delphi 与伦理；见 [`docs/sim-rl-mappingv0.1.md`](docs/sim-rl-mappingv0.1.md)、[`docs/safety-taxonomyv0.1.md`](docs/safety-taxonomyv0.1.md)、[`docs/study-protocolv0.1.md`](docs/study-protocolv0.1.md)、[`cases/adversarial/adv-specv0.1.md`](cases/adversarial/adv-specv0.1.md) |
 | 计划中 | 交互式学员终端、班级汇总、抢救室全口径计价、OpenRouter 官方基线 | — |
 
 <a id="contribute"></a>
